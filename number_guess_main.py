@@ -9,7 +9,7 @@ while True:
             print("Я загадал число по меньше.")
             i +=1
         elif vvod < zagadannoe_chislo:
-            print ("Я загада л число поболше.")
+            print ("Я загадал число поболше.")
             i += 1
         else:
             print("Ты угадал - МОЛОДЕЦ!")
